@@ -1,1 +1,2 @@
-Python homework assignment using function to find total and average
+
+I am working on relearning python and have been following a python Course from a professor at the Univeristy of Michigan. This is the python homework assignment working with the while loop. I used a while loop to say while taking a user input for a number we want to save that value as a float so its decimal version. I also have an if statement saying if the user types doen that is when the while loop will break.
